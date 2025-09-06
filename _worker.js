@@ -1,6 +1,6 @@
 let urls = [
-	'https://yycloud.tz69.vip#YYCloud CDN',
-	'https://yycloud.tz86.vip#YYCloud CDN',
+	'https://net.tz69.vip#YYCloud CDN',
+	'https://www.net.tz86.vip#YYCloud CDN',
 	'https://www.tz86.vip#Vercel CDN',
 	'https://velcel.yycloud.tz86.vip#Vercel1 CDN',
 	'https://velcel.yycloud.tz69.vip#Vercel2 CDN',
@@ -417,6 +417,7 @@ async function ADD(envadd) {
 
 	return add;
 }
+
 
 
 
